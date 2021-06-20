@@ -1,4 +1,10 @@
-/* .profile-pic {
-    position: relative;
-    top: 50px;
-} */
+.profile-pic {
+    border-radius: 50%;
+}
+
+i {
+    font-size: 3rem;
+}
+.header {
+    height: 350px;
+}
